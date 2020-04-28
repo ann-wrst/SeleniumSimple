@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BAsicSelenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-28T17:51:31" hostname="DESKTOP-01NBNJ3" time="6.495">
+  <properties/>
+  <testcase name="openHomePage()" classname="BAsicSelenium" time="6.495"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 34301
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+апр 28, 2020 8:51:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1588096292.572][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096292.686][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096293.650][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096294.657][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096294.992][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096295.352][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096297.278][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588096298.066][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
